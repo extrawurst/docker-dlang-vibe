@@ -1,0 +1,6 @@
+name "vibe-dummy"
+description "A minimal D application."
+authors "Stephan Dilly"
+copyright "Copyright © 2017, Stephan Dilly"
+license "MIT"
+dependency "vibe-d" version="~>0.8.0"
